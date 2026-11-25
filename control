@@ -1,0 +1,9 @@
+Package: com.ibrahimzebare.mytweak
+Name: MyTweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Credit popup by Ibrahim Zebare
+Maintainer: ibrahimzebare07
+Author: ibrahimzebare07
+Section: Tweaks
+Depends: mobilesubstrate
